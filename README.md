@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer%20🚀;Problem+Solver%20🧩;Tech+Enthusiast%20💻;Open+Source+Contributor%20🤝;Building+Scalable+Apps%20⚡" alt="Typing SVG" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner;Building+Awesome+Things!" alt="Typing SVG" />
 </p>
 
 <div id="badges" align="center">
@@ -73,19 +73,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
-</div>
-
----
-
-## 📊 GitHub Analytics & Achievements
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisheksingh07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksingh07&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh07&theme=github-dark&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 ---

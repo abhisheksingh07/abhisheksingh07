@@ -1,140 +1,160 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Coder animation"/>
 </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" style="margin-right: 10px;"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" style="margin-right: 10px;" alt="Waving hand"/>
   Hey there! I'm Abhishek Singh
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner;Building+Awesome+Things!" alt="Typing SVG" />
+  <a href="https://github.com/abhisheksingh07">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=61AFEF&center=true&vCenter=true&width=780&lines=Lead+Full+Stack+%26+AI+Systems+Engineer+(8%2B+Years);Architecting+for+50M%2B+Users+%7C+Sony+LIV+Blitz+CMS;Co-Founder+%26+Product+Engineering+Lead+%40+Careob.com;RAG+Pipelines+%7C+Multi-Agent+Orchestration+%7C+pgvector;Distributed+Systems+%7C+WebRTC+(mediasoup)+%7C+Node.js+%2B+TS" alt="Typing SVG" />
+  </a>
 </p>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abhishek-singh-2407/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/abhishek-singh-2407/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:abhishek.singh07@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://github.com/abhisheksingh07">
+  <a href="https://github.com/abhisheksingh07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abhisheksingh07&style=flat-square&color=blue" alt=""/>
+  <a href="https://leetcode.com/u/abhisheksingh07/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <a href="mailto:abhishek.singh07@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter" target="_blank">
+    <img src="https://freshidea.com/jonah/app/simple-view-counter/" alt="Views Badge"/>
+  </a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Key Highlights & Numbers
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif">
+<div align="center">
 
-- 🎯 **Senior Software Developer** crafting robust full-stack web applications with modern tech stack
-- 🔍 Specializing in **React**, **Node.js**, **Next.js**, and scalable backend architectures
-- 🌱 Currently exploring **Next.js**, **NestJS**, **TypeScript**, and cloud-native technologies
-- ⚡ Passionate about writing clean, efficient, and maintainable code
-- 🧠 Love solving algorithmic challenges on **LeetCode** in my free time
-- 📚 Dedicated lifelong learner staying ahead with industry trends
-- 🤝 Active contributor to open-source communities
-- 🌍 Based in **India** | Always open to collaborate on exciting projects
+| 🌐 **Scale & Impact** | 🤖 **AI & Systems** | 🎥 **Real-Time & WebRTC** |
+| :---: | :---: | :---: |
+| **50M+ Monthly Users**<br><sub>Sony LIV OTT Blitz CMS (1,400+ commits)</sub> | **Multi-Agent & RAG**<br><sub>LangChain, pgvector, Claude, OpenAI</sub> | **SFU Media Architecture**<br><sub>mediasoup, WebRTC, Socket.IO</sub> |
+| **65+ Microservices**<br><sub>Centralized observability & distributed queues</sub> | **Multi-Tenant Ecosystem**<br><sub>Careob Core, AI Tutor, Carry & Job Hunt</sub> | **8+ Years Experience**<br><sub>Engineering Lead mentoring 4–6 developers</sub> |
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### **Frontend Development**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
-</div>
-
-### **Backend Development**
-<div style="margin-top: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>
-</div>
-
-### **DevOps & Tools**
-<div style="margin-top: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
 </div>
 
 ---
 
-## 🎯 What I'm Currently Doing
+## 👨‍💻 Executive Summary
 
-- 🚀 Building scalable web applications with **Next.js** and **TypeScript**
-- 📖 Diving deeper into **system design** and **microservices architecture**
-- 🧪 Improving testing practices with **Jest** and **React Testing Library**
-- 🌐 Exploring **Web3** technologies and smart contracts
-- 💡 Contributing to open-source projects and giving back to the community
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif">
 
----
-
-## 📈 Recent Focus Areas
-
-| 💼 Project Type | 🛠️ Technologies | 🎓 Learning |
-|:---|:---|:---|
-| Web Applications | React, Next.js, Node.js | Advanced TypeScript Patterns |
-| Backend APIs | Express, NestJS, REST/GraphQL | Microservices Architecture |
-| Databases | MongoDB, PostgreSQL, Firebase | Database Optimization |
-| DevOps | Docker, AWS, CI/CD | Container Orchestration |
+- 🎯 **Lead Full Stack & AI Engineer** with **8+ years** architecting enterprise platforms, distributed event-driven backends, and production GenAI systems.
+- 📺 **Enterprise Scale (Kellton):** Top contributor on **Sony LIV Blitz CMS** serving **50M+ MAU** across TV, Movies, and Live Sports. Engineered two-phase tollgate validation engines, distributed bulk processors (SQS/SNS/Lambda), and centralized observability across 65+ microservices.
+- 🚀 **Co-Founder & Engineering Lead (Careob):** Architected the entire multi-tenant **Careob** ecosystem covering career mentorship, expert video consultations, marketplace workflows, RAG-based AI tutoring, and autonomous agents.
+- 🤖 **AI Systems Engineering:** Architected end-to-end RAG pipelines (semantic chunking, embeddings, `pgvector`, vision-RAG), multi-agent orchestration (OpenAI, Anthropic Claude, Gemini, DeepSeek), and autonomous browser workflows via Playwright.
+- 📹 **Real-Time Video:** Built scalable SFU WebRTC architectures utilizing **mediasoup** for interactive 1:1 and group sessions.
+- 📍 Based in **Delhi NCR, India** | Always open to high-impact engineering leadership and architectural collaborations.
 
 ---
 
-## 💬 Let's Connect!
+## 🛠️ Technical Arsenal
 
-I'm always excited to connect with fellow developers, discuss tech trends, and collaborate on interesting projects. Whether you want to:
+### **AI, LLM & Multi-Agent Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG_%26_pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="Agents"/>
+</p>
 
-- 💡 Brainstorm innovative ideas
-- 🤝 Collaborate on projects
-- 📚 Share knowledge and learn together
-- 🔗 Network and make new connections
+### **Languages & Core Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,graphql,solidity" alt="Languages & Backend" />
+  </a>
+</p>
 
-Feel free to reach out! You can find me on:
+### **Frontend & UI Architecture**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind,materialui,html,css" alt="Frontend Skills" />
+  </a>
+</p>
 
-- 💼 **LinkedIn**: [Abhishek Singh](https://www.linkedin.com/in/abhishek-singh-2407/)
-- 📧 **Email**: abhishek.singh07@hotmail.com
-- 🐙 **GitHub**: [abhisheksingh07](https://github.com/abhisheksingh07)
+### **Databases & Event Queues**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis" alt="Databases and Caching" />
+  </a>
+</p>
+
+### **Cloud, Streaming, DevOps & Observability**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,jest,vitest,postman,datadog" alt="DevOps, Cloud and Observability" />
+  </a>
+</p>
 
 ---
 
-## 🎓 Fun Facts About Me
+## 🏛️ Featured Architectures & Products
 
-- 🏆 Passionate about competitive programming and algorithm optimization
-- 📖 Tech article enthusiast - always reading about new developments
-- ☕ Coffee-driven developer (quite literally!)
-- 🎮 Gamer in my downtime
-- 🌟 Believer in continuous learning and growth mindset
+### 📺 [Sony LIV OTT](https://www.sonyliv.com) — Blitz CMS Backend
+- **Scale:** High-concurrency enterprise CMS powering streaming for **50M+ monthly active users**.
+- **Distributed Bulk Processing:** Engineered async pipelines with `TransactionId` locking, stale-version auditing, and AWS SQS/SNS lifecycle handlers.
+- **Observability:** Centralized structured logging and distributed tracing across **65+ microservices** with transaction correlation, request IDs, and sensitive data masking.
+
+### 🌐 [Careob Main Platform](https://careob.com) — Co-Founder & Product Engineering Lead
+- **Platform Architecture:** Built a multi-tenant education and career mentorship platform connecting students with industry leaders, featuring AI-driven career assessments, role-based access control (RBAC), and analytics.
+- **Expert Marketplace & Booking:** Architected real-time consultation scheduling, marketplace payout workflows, and multi-currency billing integration via **Stripe** and **Razorpay**.
+- **Enterprise Integrations:** Engineered institution-level management portals, audit logging, and secure data access layers.
+
+### 🧠 Careob AI & Product Ecosystem
+- **AI Tutor ([aitutor.careob.com](https://aitutor.careob.com)):** Autonomous tutoring engine built with TypeScript, Node.js, PostgreSQL (`pgvector`), and Redis. Delivers RAG-based Q&A, personalized learning roadmaps, vision-RAG document ingestion, and multi-agent orchestration (Smart Solver, Mock Interviewer).
+- **Careob Meet ([meet.careob.com](https://meet.careob.com)):** Low-latency WebRTC video conferencing engine built on a **mediasoup SFU** architecture for interactive 1:1 and group sessions.
+- **Carry ([carry.careob.com](https://carry.careob.com)):** LangChain-driven accessibility agent with Playwright automation for portal appointment scheduling and offline-capable PWA support.
+- **Job Hunt Apply ([jobs.careob.com](https://jobs.careob.com)):** Multi-tenant SaaS with a Chrome MV3 extension, 4-tier answer pipeline (EEO privacy guard, fuzzy lookup, AI generation), and anti-bot mitigation across 7+ ATS portals.
+
+---
+
+## 📊 GitHub Analytics & Live Metrics
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh07&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/abhisheksingh07?theme=tokyonight&font=Ubuntu" height="175" alt="LeetCode Stats" />
+</div>
+
+---
+
+## 💬 Let's Connect & Collaborate!
+
+I'm always keen to discuss distributed systems, RAG / multi-agent architectures, enterprise scale, or open-source initiatives:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhishek-singh-2407/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://github.com/abhisheksingh07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/abhisheksingh07/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>&nbsp;
+  <a href="mailto:abhishek.singh07@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile! 
+⭐ **Thank you for visiting!** Check out my pinned repositories below.
 
-Don't forget to ⭐ star this repository if you found it interesting!
-
-**"The only way to do great work is to love what you do." – Steve Jobs**
+*"The only way to do great work is to love what you do."* – **Steve Jobs**
 
 </div>
-
-<!--
-**abhisheksingh07/abhisheksingh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->

@@ -48,8 +48,6 @@
 
 ## 👨‍💻 Executive Summary
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJqv/giphy.gif">
-
 - 🎯 **Lead Full Stack & AI Engineer** with **8+ years** architecting enterprise platforms, distributed event-driven backends, and production GenAI systems.
 - 📺 **Enterprise Scale (Kellton):** Top contributor on **Sony LIV Blitz CMS** serving **50M+ MAU** across TV, Movies, and Live Sports. Engineered two-phase tollgate validation engines, distributed bulk processors (SQS/SNS/Lambda), and centralized observability across 65+ microservices.
 - 🚀 **Co-Founder & Engineering Lead (Careob):** Architected the entire multi-tenant **Careob** ecosystem covering career mentorship, expert video consultations, marketplace workflows, RAG-based AI tutoring, and autonomous agents.
